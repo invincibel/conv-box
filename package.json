@@ -1,0 +1,24 @@
+{
+  "name": "ticket-booking-api",
+  "version": "1.0.0",
+  "description": "A Ticket management API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/090max/Ticket-Booking-API.git"
+  },
+  "author": "Kapil Kumar Israni (17104011)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/090max/Ticket-Booking-API/issues"
+  },
+  "homepage": "https://github.com/090max/Ticket-Booking-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "node-cron": "^2.0.3"
+  }
+}
