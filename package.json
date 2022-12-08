@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/090max/Ticket-Booking-API#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql": "^2.18.1",
     "node-cron": "^2.0.3"
   }
